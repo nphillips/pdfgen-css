@@ -256,6 +256,8 @@ table {
   display: table;
   border-collapse: collapse;
   border-spacing: 0;
+  font-size: inherit;
+  font-family: inherit;
 }
 
 tr {

@@ -215,6 +215,8 @@ table {
   display: table;
   border-collapse: collapse;
   border-spacing: 0;
+  font-size: inherit;
+  font-family: inherit;
 }
 tr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
