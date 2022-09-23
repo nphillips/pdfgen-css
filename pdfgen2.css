@@ -617,3 +617,8 @@ small {
 .row .col.push-s12 {
   left: 100%;
 }
+
+.hd__container {
+  margin-left: 40px;
+  margin-right: 40px;
+}
